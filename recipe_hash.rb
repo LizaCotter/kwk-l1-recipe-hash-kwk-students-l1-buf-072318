@@ -1,5 +1,5 @@
 #code your solutions here
-perfect_10_recipe = {"almond flour" => "2"
+perfect_10_recipe = {
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
